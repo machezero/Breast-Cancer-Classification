@@ -1,0 +1,12 @@
+name: Prediction_Cancer
+title: Prediction_Cancer
+username:
+account: machezero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 998398
+bundleId: 2178491
+url: https://machezero.shinyapps.io/Prediction_Cancer/
+when: 1561503777.66629
+asMultiple: FALSE
+asStatic: FALSE
